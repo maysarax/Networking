@@ -1,0 +1,16 @@
+# SMTP
+
+Simple Mail Transfer Protocol -SMTP
+
+Open Relay 
+
+https://mxtoolbox.com/problem/smtp/smtp-open-relay
+
+Reference
+
+https://pro2col.com/free-managed-file-transfer-software-is-open-source-really-option/
+
+https://www.thefreecountry.com/utilities/email-servers.shtml
+
+https://www.tecmint.com/best-mail-transfer-agents-mta-for-linux/
+
