@@ -1,0 +1,29 @@
+# LDAP
+
+Lightweight Directory Access Protocol-LDAP
+
+open source
+
+Jxplorer 
+
+http://jxplorer.org/
+
+Openldap
+
+https://www.openldap.org/
+
+Ldapadmin
+
+http://www.ldapadmin.org/
+
+ Apache Directory
+ 
+https://directory.apache.org/
+
+389 Directory Server
+
+https://directory.fedoraproject.org/
+
+Opendj
+
+https://forgerock.github.io/opendj-community-edition/
