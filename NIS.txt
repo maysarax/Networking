@@ -1,0 +1,16 @@
+# NIS
+
+Network Information Service -NIS
+
+open source 
+
+https://www.thkukuk.de/nis/
+
+Reference 
+
+https://en.wikipedia.org/wiki/Network_Information_Service
+
+
+
+
+
