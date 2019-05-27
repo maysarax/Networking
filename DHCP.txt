@@ -1,0 +1,17 @@
+# DHCP
+
+ Dynamic Host Configuration Protocol-DHCP
+ 
+ open source
+ 
+ https://www.isc.org/downloads/dhcp/
+ 
+ 
+ 
+ Reference
+ 
+ https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
+ 
+ https://wiki.debian.org/DHCP_Server
+ 
+ 
