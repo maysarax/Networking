@@ -1,0 +1,18 @@
+# TFTP
+
+Trivial File Transfer Protocol -TFTP
+
+
+open source
+
+http://tftpd32.jounin.net/
+
+https://www.openhub.net/p/tftpserver
+
+
+ Reference
+ 
+ https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol 
+ 
+ https://www.pcwdld.com/top-10-free-tftp-servers
+ 
