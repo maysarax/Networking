@@ -1,0 +1,44 @@
+# SIP
+
+Session Initiation Protocol -SIP
+
+open source
+
+https://www.asterisk.org/
+
+https://www.pjsip.org/links.htm
+
+https://www.linphone.org/
+
+https://jitsi.org/
+
+https://www.opensips.org/
+
+https://www.kamailio.org/w/
+
+https://www.microsip.org/
+
+https://officesip.com/
+
+https://www.pjsip.org/
+
+http://www.yate.ro/
+
+https://freeswitch.com/oss/
+
+http://callweaver.org/
+
+https://wiki.gnome.org/action/show/Apps/Empathy?action=show&redirect=Empathy
+
+https://www.ekiga.org/
+
+
+
+Reference
+
+https://en.wikipedia.org/wiki/Session_Initiation_Protocol
+
+https://en.wikipedia.org/wiki/List_of_SIP_software
+
+
+
