@@ -1,0 +1,12 @@
+# CIFS
+# SMB
+
+Common Internet File System -CIFS
+
+Server Message Block -SMB
+
+https://en.wikipedia.org/wiki/Server_Message_Block
+
+
+https://msdn.microsoft.com/en-us/library/cc246483.aspx
+
