@@ -1,0 +1,37 @@
+# NTP
+
+Network Time Protocol -NTP
+
+
+open source
+
+
+Network Time Protocol project
+
+http://www.ntp.org/
+
+The pool.ntp.org project
+
+https://www.pool.ntp.org/en/
+
+OpenNTPD
+
+http://www.openntpd.org/
+
+
+Network Time Protocol project (NTP)
+
+https://www.openhub.net/p/NTP_project
+
+
+Manage NTP with Chrony
+
+https://opensource.com/article/18/12/manage-ntp-chrony
+
+Reference
+
+https://en.wikipedia.org/wiki/Network_Time_Protocol
+
+https://en.wikipedia.org/wiki/Ntpd
+
+https://linux.die.net/man/8/ntpd
