@@ -1,0 +1,37 @@
+# FTP
+ 
+ File Transfer Protoco -FTP
+ 
+open source 
+
+FileZilla
+
+https://filezilla-project.org/
+
+Proftpd
+
+http://www.proftpd.org/
+
+gFTP
+
+https://www.gftp.org/
+
+FireFTP
+
+http://fireftp.net/
+
+Cyberduck
+
+https://cyberduck.io/
+
+WinSCP
+
+https://winscp.net/eng/index.php
+
+Refernce 
+
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+
+https://www.roseindia.net/opensource/open-source-ftp.shtml
+
+https://www.bettertechtips.com/software/open-source-ftp-client/
