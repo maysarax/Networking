@@ -32,6 +32,7 @@ https://wiki.gnome.org/action/show/Apps/Empathy?action=show&redirect=Empathy
 
 https://www.ekiga.org/
 
+https://www.netfortris.com/partners
 
 
 Reference
@@ -40,5 +41,6 @@ https://en.wikipedia.org/wiki/Session_Initiation_Protocol
 
 https://en.wikipedia.org/wiki/List_of_SIP_software
 
+https://www.voip-info.org/trixbox/
 
 
