@@ -41,6 +41,13 @@ https://en.wikipedia.org/wiki/Session_Initiation_Protocol
 
 https://en.wikipedia.org/wiki/List_of_SIP_software
 
+https://en.wikipedia.org/wiki/IP_PBX
+
+https://www.voip-info.org/
+
 https://www.voip-info.org/trixbox/
 
+https://searchunifiedcommunications.techtarget.com/definition/IP-PBX
+
+https://www.voip-info.org/ip-pbx/
 
