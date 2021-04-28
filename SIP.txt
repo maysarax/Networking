@@ -4,33 +4,63 @@ Session Initiation Protocol -SIP
 
 open source
 
+asterisk
+
 https://www.asterisk.org/
+
+pjsip
 
 https://www.pjsip.org/links.htm
 
+linphone 
+
 https://www.linphone.org/
+
+jitsi
 
 https://jitsi.org/
 
+opensips
+
 https://www.opensips.org/
+
+kamailio
 
 https://www.kamailio.org/w/
 
+microsip
+
 https://www.microsip.org/
+
+officesip
 
 https://officesip.com/
 
+pjsip
+
 https://www.pjsip.org/
+
+yate
 
 http://www.yate.ro/
 
+freeswitch
+
 https://freeswitch.com/oss/
+
+callweaver
 
 http://callweaver.org/
 
+empathy
+
 https://wiki.gnome.org/action/show/Apps/Empathy?action=show&redirect=Empathy
 
+ekiga
+
 https://www.ekiga.org/
+
+netfortris
 
 https://www.netfortris.com/partners
 
